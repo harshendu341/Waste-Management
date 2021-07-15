@@ -15,6 +15,12 @@ This was a website our team Skynet consisting of Chandra Pratap Singh Chauhan (@
 
 5) Clean, user friendly navigation.
 
+banji7902: https://github.com/banji7902
+
+developer-metalhead: https://github.com/developer-metalhead
+
+theBatman07: https://github.com/theBatman07
+
 
 ![WhatsApp Image 2021-06-26 at 3 47 51 PM](https://1.bp.blogspot.com/-Zlh9oNQi7q8/YO_xzZiGiJI/AAAAAAAADik/g7AVAFb5hfg9Y04dKc1ahw4Yv819M20qgCLcBGAsYHQ/w649-h539/Website%2BHomepage.png)
 
