@@ -9,6 +9,8 @@ This was a website our team Skynet consisting of Chandra Pratap Singh Chauhan (@
 
 2) Multi-page Website which includes sections like home,about,effects,stats,volunteer.
 
+3) Form which STORES name,email,phone and a picture.
+
 3) RESPONSIVE WEBSITE.
 
 4) Simple and Professional Web Design
