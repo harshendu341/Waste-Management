@@ -16,5 +16,5 @@ This was a website our team Skynet consisting of Chandra Pratap Singh Chauhan (@
 5) Clean, user friendly navigation.
 
 
-![WhatsApp Image 2021-06-26 at 3 47 51 PM](https://user-images.githubusercontent.com/82439481/123509957-4a01c300-d696-11eb-99b7-f8dcc4ba1ba1.jpeg)
+![WhatsApp Image 2021-06-26 at 3 47 51 PM](https://1.bp.blogspot.com/-E5RA9BL1oPU/YO7xZ7E-lTI/AAAAAAAADh0/enE0OfEW14oKcLHlU9_04jCY0zZGMNpXACLcBGAsYHQ/s320/Contacts.jpg)
 
